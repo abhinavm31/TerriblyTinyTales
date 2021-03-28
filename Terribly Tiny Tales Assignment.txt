@@ -1,0 +1,22 @@
+React is a JavaScript library for building user interfaces.
+React allows us to create reusable UI components.
+Current version of React.JS is V16.8.6 (March 2019).
+
+Initial Release to the Public (V0.3.0) was in July 2013.
+
+React.JS was first used in 2011 for Facebook's Newsfeed feature.
+
+Facebook Software Engineer, Jordan Walke, created it.
+
+The create-react-app version 2.0 package was released in October 2018.
+
+Create-react-app version 2.0 supports Babel 7, webpack 4, and Jest23.
+
+
+<button className="insertButton" onClick={() => {this.setState({ display: !this.state.display })}}>Roll Number</button>
+module.exports = [ 
+{name : 'roll numbers',
+list : [5,6,9,12,18,20,25,30,32,36,37,38,40,42,45,47,49,50]}
+];
+
+    
